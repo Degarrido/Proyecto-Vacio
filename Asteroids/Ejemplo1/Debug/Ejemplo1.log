@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\administrador\desktop\proyecto-vacio\asteroids\ejemplo1\main.cpp(4): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Ejemplo1.vcxproj -> C:\Users\Administrador\Desktop\Proyecto-Vacio\Asteroids\Debug\Game.exe

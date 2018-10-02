@@ -1,2 +1,6 @@
 #Visual Studio Documment
-*.vs
+*Asteroids/.vs
+
+#Files
+*.obj
+*.exe
