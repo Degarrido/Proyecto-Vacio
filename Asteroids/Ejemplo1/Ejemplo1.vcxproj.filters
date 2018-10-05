@@ -13,10 +13,33 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Screens">
+      <UniqueIdentifier>{773d3f9b-053f-4c46-81f2-f9d6ae2fa288}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="Logo.cpp">
+      <Filter>Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Title.cpp">
+      <Filter>Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Gameplay.cpp">
+      <Filter>Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Ending.cpp">
+      <Filter>Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Credits.cpp">
+      <Filter>Screens</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Screens.h">
+      <Filter>Screens</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
